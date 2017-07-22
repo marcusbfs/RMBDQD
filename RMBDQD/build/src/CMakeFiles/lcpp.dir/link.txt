@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblcpp.a  CMakeFiles/lcpp.dir/mod/get_os.cpp.o
+/usr/bin/ranlib liblcpp.a
