@@ -1,1 +1,0 @@
-/usr/bin/c++      CMakeFiles/program.dir/main.f90.o  -o program -rdynamic liblib.a liblibf.a liblcpp.a liblib.a -lgfortran -lquadmath 

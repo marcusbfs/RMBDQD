@@ -10,7 +10,7 @@ Pré-requisitos:
 
   Esse programa foi criado e otimizado com base no compilador [GFortran](https://gcc.gnu.org/wiki/GFortran). Para outros compiladores talvez seja necessário mudar as flags de otimização.
 
-Para instalar, basta estar executar a seguinte linha no terminal:
+Para instalar, basta executar a seguinte linha no terminal:
 
 ``` bash
 bash ./INSTALL.sh

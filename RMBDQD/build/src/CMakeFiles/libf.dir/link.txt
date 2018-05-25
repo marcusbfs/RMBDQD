@@ -1,2 +1,0 @@
-/usr/bin/ar qc liblibf.a  CMakeFiles/libf.dir/mod/frequencia.f90.o
-/usr/bin/ranlib liblibf.a

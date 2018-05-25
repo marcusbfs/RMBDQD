@@ -1,2 +1,0 @@
-/usr/bin/ar qc liblib.a  CMakeFiles/lib.dir/mod/decomp.f90.o CMakeFiles/lib.dir/mod/jacobi.f90.o CMakeFiles/lib.dir/mod/mult.f90.o CMakeFiles/lib.dir/mod/redbak.f90.o CMakeFiles/lib.dir/mod/scheck.f90.o CMakeFiles/lib.dir/mod/commonutils.f90.o CMakeFiles/lib.dir/mod/subrotinas.f90.o CMakeFiles/lib.dir/mod/subspace.f90.o CMakeFiles/lib.dir/mod/help.f90.o CMakeFiles/lib.dir/mod/f90getopt.f90.o
-/usr/bin/ranlib liblib.a
